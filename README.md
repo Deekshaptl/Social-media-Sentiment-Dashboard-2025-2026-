@@ -1,4 +1,3 @@
-Social Media Sentiment Dashboard (2025–2026) 📊
 1️⃣ Project Overview
 
 The Social Media Sentiment Dashboard is a data analytics project that analyzes public opinions expressed on social media platforms. The dashboard helps understand how people feel about topics, brands, or products by classifying posts into positive, negative, or neutral sentiment.
